@@ -1,0 +1,116 @@
+.menu h1{
+    display: inline-block; 
+    margin-right: 12px;
+    font-size: 20px;
+    padding: 50px;
+    vertical-align: super;
+    color: rgba(0, 0, 255, 0.684);
+    text-decoration: solid;
+}
+a:hover{
+    color: orangered;
+}
+.internet h2{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(22, 22, 176);
+    text-align: center;
+    font-size: 40px;
+}
+.internet p{
+    font-family: 'Times New Roman', Times, serif;
+    color:black ;
+    text-align: center;
+    font-size: 25px;
+}
+.princ1 img{
+    float: left;
+    margin-right: 0px;
+}
+.tipos{
+    color: white;
+    background-color: midnightblue;
+    font-size: 35px;
+    text-align: center;
+    position: relative;
+}
+.tipos p{
+    color: greenyellow;
+    text-align: center;
+    font-size: 20px;
+
+}
+.tipostext{
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 20%; /* Ajusta la posición vertical del texto */
+    left: 20%; /* Ajusta la posición horizontal del texto */
+    transform: translate(-10%, -10%); /* Centra el texto */
+    color: rgb(14, 14, 134); /* Color del texto */
+    font-size: 24px; /* Tamaño del texto */
+    font-weight: bold;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly; /* Distribuye los textos de manera uniforme */
+    align-items: center; /* Centra los textos horizontalmente */
+}
+.textos{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px; /* Tamaño del texto */
+    font-weight: bold;
+    border-radius: 5PX;
+    background-color: ghostwhite;
+    
+}
+.textos p{
+    color: black;
+}
+.paginapie h4{
+    color: white;
+    font-size: 35px;
+
+}
+.paginapie p{
+    color: white;
+    background-color: midnightblue;
+    display: inline-block;
+    margin-right: 1%;
+    font-size: 20px;
+    padding: 20px;
+}
+
+h6{
+    color: midnightblue;
+    background-color: beige;
+    font-size: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-inline: 25%;
+}
+
+.origen ol{
+    color: black;
+    font-size:50px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-inline: 15%;
+    justify-content: center;
+}
+
+h7{
+    color: midnightblue;
+    font-size: 40px;
+    margin-inline: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20%;
+
+}
+.caracter p{
+    color: black;
+    margin-inline: 20%;
+    font-size: 25px;
+    
+}
+.conoceme {
+    color: black;
+    margin-inline: 50%;
+    font-size: 35px;
+    background-color: beige;
+}
